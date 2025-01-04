@@ -2,8 +2,8 @@ name: voila
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
-  - ipywidgets=7.7.2
+  - python=3.10
+  - ipywidgets
   - ipykernel
   - pandas
   - pip
